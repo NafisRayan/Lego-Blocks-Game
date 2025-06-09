@@ -2,7 +2,7 @@
 
 A modern web-based 3D Lego simulation game built with **Next.js 15**, **React 19**, and **Three.js**. Create, modify, and explore virtual Lego structures using an elegant UI and immersive 3D environment.
 
-<p align="center"> <img src="https://github.com/NafisRayan/Lego-Blocks-Game/raw/main/public/Lego%20Simulation.png" alt="Lego Blocks Simulation" width="860" /> </p>
+<p align="center"> <img src="https://github.com/NafisRayan/Lego-Blocks-Game/blob/main/public/Lego%20Simulation.png" alt="Lego Blocks Simulation Image" width="860" /> </p>
 
 ---
 
