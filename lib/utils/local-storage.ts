@@ -1,6 +1,6 @@
-import type { Brick } from "@/components/v0-blocks/events"
+import type { Brick } from "@/components/blocks/events"
 
-const LOCAL_STORAGE_KEY = "v0-blocks-state"
+const LOCAL_STORAGE_KEY = "blocks-state"
 
 export interface LocalStorageState {
   bricks: Brick[]

@@ -1,4 +1,4 @@
-import type { Brick } from "@/components/v0-blocks/events"
+import type { Brick } from "@/components/blocks/events"
 
 // Type for saved creation
 export type SavedCreation = {

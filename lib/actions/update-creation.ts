@@ -2,7 +2,7 @@
 
 import { kv } from "@vercel/kv"
 import { revalidatePath } from "next/cache"
-import type { Brick } from "@/components/v0-blocks/events"
+import type { Brick } from "@/components/blocks/events"
 import type { SavedCreation } from "../types"
 
 // Update an existing creation

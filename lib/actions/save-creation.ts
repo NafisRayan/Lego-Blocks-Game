@@ -3,7 +3,7 @@
 import { kv } from "@vercel/kv"
 import { nanoid } from "nanoid"
 import { revalidatePath } from "next/cache"
-import type { Brick } from "@/components/v0-blocks/events"
+import type { Brick } from "@/components/blocks/events"
 import type { SavedCreation } from "../types"
 
 // Save the current blocks to Redis

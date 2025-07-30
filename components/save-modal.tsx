@@ -5,7 +5,7 @@ import type React from "react"
 import { useState, useEffect } from "react"
 import { saveCreation } from "@/lib/actions/save-creation"
 import { updateCreation } from "@/lib/actions/update-creation"
-import type { Brick } from "@/components/v0-blocks/events"
+import type { Brick } from "@/components/blocks/events"
 import { Dialog, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button"
 

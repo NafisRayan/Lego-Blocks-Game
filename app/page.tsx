@@ -1,4 +1,4 @@
-import V0Blocks from "@/components/v0-blocks"
+import V0Blocks from "@/components/blocks"
 
 export default function Home() {
   return <V0Blocks />
