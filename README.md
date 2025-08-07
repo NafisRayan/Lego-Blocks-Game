@@ -77,7 +77,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 │   ├── block/           # Block logic components
 │   ├── scene/           # 3D scene management
 │   ├── color-selector/  # Color selection system
-│   └── blocks/       # Initial block prototypes
+│   └── blocks/          # Initial block prototypes
 ├── lib/
 │   ├── actions/         # Server-side logic
 │   └── utils/           # Utility functions
